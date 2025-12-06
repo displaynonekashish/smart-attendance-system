@@ -1,6 +1,9 @@
 # Attendance System with Face Recognition
 
 This application uses facial recognition to automate classroom attendance. Teachers take a photo of the class, and the system automatically identifies students and marks them present.
+<img width="1627" height="897" alt="image" src="https://github.com/user-attachments/assets/6ec1cb69-6356-4aef-86fd-e208e3956d7c" />
+
+
 
 ## Features
 

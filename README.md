@@ -1,8 +1,16 @@
 # Attendance System with Face Recognition
 
 This application uses facial recognition to automate classroom attendance. Teachers take a photo of the class, and the system automatically identifies students and marks them present.
-<img width="1627" height="897" alt="image" src="https://github.com/user-attachments/assets/6ec1cb69-6356-4aef-86fd-e208e3956d7c" />
-
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6ec1cb69-6356-4aef-86fd-e208e3956d7c" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f9d41a29-1ce4-45d3-87de-ff289c12d88b" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a08eb076-1cad-4bd2-9962-65d398182dcf" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d0ae92be-57c3-4c58-816f-d8dd35aa9000" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/998eae1c-e163-4ac0-a58d-91d7734dbf1f" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f6899dec-cd69-44de-89d9-fab445a0ea3a" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/719e258b-3edc-42dc-a280-b20d31f5b9af" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f3144cd9-dc8e-4780-bcf9-9661b37cc43a" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/3e9d5cdf-3fa8-4445-b2f2-c2c827899141" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/47186034-cfbc-4825-9108-e495c6b1266b" />
 
 
 ## Features
